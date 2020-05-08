@@ -79,11 +79,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Beginner
 
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) <!--claps:dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb--> - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
-- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
-- [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) <!--claps:flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26--> - Step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
-- [Roadmap To Become A Flutter Developer](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - A quick step by step resource guide for those who want to learn flutter by [Ashish Rawat](https://www.ashishrawat.dev).
+
 
 ### Advanced
 
@@ -262,6 +260,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
+- [Get](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 
 ### Auth
 
@@ -328,6 +327,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
 - [Chewie](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
+- [Video Trimmer](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - Visualise and trim videos by [Souvik Biswas](https://github.com/sbis04)
 
 #### Voice
 
@@ -587,16 +587,18 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
-- [Flutter Debugger](https://github.com/blankapp/flutter-debugger) <!--stargazers:blankapp/flutter-debugger--> - Standalone app for debugging Flutter apps based on [Flipper](https://github.com/facebook/flipper) by [JianyingLi](https://github.com/lijy91)
+- [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ### VSCode
 
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
+- [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - i18n binding from arb files by [Localizely](https://twitter.com/localizely)
 
 ### IntelliJ / Android Studio
 
 - [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+- [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) - 18n binding from arb files by [Localizely](https://twitter.com/localizely)
 
 ### Desktop
 
@@ -809,6 +811,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
 - [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 - [Twitter](https://twitter.com/flutterNorway)
+
+### 🇺🇿 Uzbekistan
+ - [Telegram](https://t.me/dartdevuz)
 
 ## License
 
